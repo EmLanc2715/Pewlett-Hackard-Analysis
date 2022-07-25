@@ -11,10 +11,23 @@ Specifically, Bobby and I determined the number of retiring employees per title,
 
 ## Results
 
-1.
-2. The retirement_count table shows that across all 9 departments, there are a total of 36,619 employees at retirement age.
+1.Pewlett-Hackard has a total of 240,124 current employees. Their database contains information on 300,024 employees, which includes employees no longer working at the company.
 
+2. The retirement_count table shows that across all 9 departments, there are a total of 36,619 employees at retirement age currently. 
 ![image](https://user-images.githubusercontent.com/101427781/180838526-573f12ea-02db-481c-bc59-8a7b561c5ac3.png)
+
+However, in the next three years, the number of employees eligible for retirement jumps up to 133,776.
+![retirement_titles_3years](https://user-images.githubusercontent.com/101427781/180843183-b297b617-061f-42e8-8fd4-e26cc6aaa91d.png)
+
+
+3. Most of the employees whom are retiring currently hold Senior positions, as shown in the image below.
+
+![image](https://user-images.githubusercontent.com/101427781/180841320-ee930157-a96d-4859-bac2-b8c3ff79abff.png)
+
+
+4. There are currently 1549 employees who are eligible for mentorship.
+![mentorship_eligibilty](https://user-images.githubusercontent.com/101427781/180840536-cf94c451-0204-4ef6-9012-bfc59525bd75.png)
+
 
 
 ## Summary
