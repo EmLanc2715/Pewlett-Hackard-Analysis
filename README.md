@@ -32,3 +32,9 @@ However, in the next three years, the number of employees eligible for retiremen
 
 
 ## Summary
+
+1. How many roles will need filled as Pewlett-Hackard experiences the "silver tsunami"?
+  - 133,776 employees will be meeting the requirements to retire in the next 3 years. There are only 240,140 current employees at the company, and this points to a         disaster if P-H does not start hiring and promoting employees to mitigate the impact of the "silver tsunami". 
+
+2. Are there enough qualified employees in all of the departments to be mentored into senior job titles?
+  - Currently, no, there are only 1549 employees eligible for mentorship. 
